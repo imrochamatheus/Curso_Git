@@ -5,4 +5,5 @@ de
 arquivo
 2
 Testando funcionalidade A
+Enviando a funcionalidade B
 
